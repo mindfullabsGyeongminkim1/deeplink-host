@@ -5,3 +5,11 @@
 /.well-known/*
   Content-Type: application/json
   Cache-Control: public, max-age=300
+
+/apple-app-site-association
+  Content-Type: application/json
+  Cache-Control: public, max-age=300
+
+/*
+  Content-Type: application/json
+  Cache-Control: public, max-age=300
