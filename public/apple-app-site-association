@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "WVVYCX4YYG.com.mindfullabs.ai",
+        "paths": [
+          "/deeplink/*",
+          "/login/*"
+        ]
+      }
+    ]
+  }
+}
